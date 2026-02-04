@@ -23,4 +23,5 @@ Write your case and commentary together.  The trick is to describe a situation i
 Any style, tone, or level of polish will be acceptable.  Don’t use an LLM, but consider text-to-speech. I’m really interested in how you are thinking about these cases.  I’m not concerned about the form your writings take.
 
 
+
 A note on paper submission: This project must be submitted on paper (not digitally) in class on the date listed in the course schedule.  With each final draft, each student will submit relevant drafts and in-class writings in a folder that shows the development of the final draft.  Free printing for students taking WRT courses is available in the Digital Writing and Research Studio (DWARS) in 320 Roosevelt Hall. Unless otherwise approved by the instructor, digital submissions of unit projects will not be accepted.
